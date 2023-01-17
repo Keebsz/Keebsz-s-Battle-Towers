@@ -1,0 +1,15 @@
+{
+  "name": "keebsz:tower_bosses/lich_tower_guardian",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{	
+      "weight": 1,
+      "element": {
+        "location": "keebsz:tower_bosses/lich_tower_guardian",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+#This command can be used to summon the Slime Tower Guardian /function keebsz:battletowers/slime_tower_guardian/summon
+summon minecraft:slime ~ ~ ~ {Size:3,CustomName:'[{"text":"Slime Tower Guardian","color":"green","bold":true}]',DeathLootTable:"keebsz:entities/slime_tower_guardian",Tags:["slime_tower_guardian"],Health:300,Attributes:[{Name:"generic.max_health",Base:300f}],Passengers:[{id:slime,Size:2,Passengers:[{id:slime,Size:1}]}]}

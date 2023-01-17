@@ -1,0 +1,42 @@
+{
+  "name": "keebsz:sandstone_battletower_underground/floor3and4_underground",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{	
+      "weight": 1,
+      "element": {
+        "location": "keebsz:sandstone_battletower/floor3and4_underground/sandstone_floor3and4_underground",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "keebsz:sandstone_battletower/floor3and4_underground/sandstone_floor3and4_underground_2",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "keebsz:sandstone_battletower/floor3and4_underground/sandstone_floor3and4_underground_3",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{	
+      "weight": 1,
+      "element": {
+        "location": "keebsz:sandstone_battletower/floor3and4_underground/sandstone_floor3and4_underground_4",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
