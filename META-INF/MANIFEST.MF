@@ -3,7 +3,7 @@ Specification-Title: keebszs_battle_towers
 Specification-Vendor: keebszs_battle_towerssareus
 Specification-Version: 1
 Implementation-Title: Keebsz's Battle Tower Forge
-Implementation-Version: 0.4.1-1.19
+Implementation-Version: 0.5.0-1.19
 Implementation-Vendor: keebszs_battle_towerssareus
-Implementation-Timestamp: 2022-12-28T13:45:16-0500
+Implementation-Timestamp: 2023-03-21T19:29:20-0400
 

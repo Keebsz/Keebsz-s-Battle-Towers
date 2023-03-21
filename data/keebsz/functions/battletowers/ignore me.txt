@@ -1,2 +1,0 @@
-#Summons invisible bat.
-/summon minecraft:bat ~ ~1 ~ {NoAI:1b,Silent:1,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647,ShowParticles:0b}],Tags:["slime_tower_guardian_spawn"]}

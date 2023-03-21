@@ -1,0 +1,1 @@
+give @p warped_fungus_on_a_stick{CustomModelData:665100,Tags:["battletower.wiliting.staff"],display:{Name:'[{"text":"Wiliting Staff","italic":false}]'}} 1

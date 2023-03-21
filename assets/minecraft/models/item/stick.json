@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":666392}, "model": "item/stick/default_boss"},
+		{"predicate": {"custom_model_data":666492}, "model": "item/stick/desert_boss"},
+		{"predicate": {"custom_model_data":666592}, "model": "item/stick/snow_boss"},
+		{"predicate": {"custom_model_data":6669300}, "model": "item/stick/icon"},
+		{"predicate": {"custom_model_data":6669301}, "model": "item/stick/defeat_boss"}
+	]
+}

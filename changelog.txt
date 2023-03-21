@@ -1,1 +1,9 @@
-Fixed enchantment books
+- Adjusted the loot you obtain in chests.
+- Redone tower boss.
+- Biome specific loot.
+- Towers explode when the boss dies.
+- Newly generated underground battletowers removes water and lava.
+- Adjusted tower lighting.
+- Removed the mudbrick battletowers as of now.
+- Fixed an issue with some spawners.
+- Adjusted the holes in the floor, that way you dont fall on the chain holding the spawner from the floor below.

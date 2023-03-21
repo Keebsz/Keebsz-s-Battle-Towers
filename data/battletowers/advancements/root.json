@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Battle Towers"
+        },
+        "description": {
+            "text": "Advancements for Keebsz's Battle Towers"
+        },
+        "icon": {
+            "item": "minecraft:stick",
+            "nbt": "{CustomModelData:6669300}"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "Tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

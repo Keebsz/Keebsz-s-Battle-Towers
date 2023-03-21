@@ -1,0 +1,30 @@
+{
+   "__comment":"Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+   "display":{
+      "title":{
+         "text":"May Thy Tower Crumble"
+      },
+      "description":{
+         "text":"Defeat one of the tower guardians."
+      },
+      "icon":{
+         "item":"minecraft:stick",
+         "nbt":"{CustomModelData:6669301}"
+      },
+      "show_toast":true,
+      "announce_to_chat":true,
+      "hidden":false
+   },
+   "parent":"battletowers:root",
+   "criteria":{
+      "kill":{
+         "trigger":"minecraft:player_killed_entity",
+         "conditions":{
+            "entity":{
+               "type":"minecraft:skeleton",
+               "nbt":"{Tags:[\"tower.guardian\"]}"
+            }
+         }
+	  }
+   }
+}
