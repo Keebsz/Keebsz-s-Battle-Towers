@@ -1,3 +1,4 @@
+Changes from Version 0.4.1 to Now
 - Adjusted the loot you obtain in chests.
 - Redone tower boss.
 - Biome specific loot.
@@ -7,3 +8,8 @@
 - Removed the mudbrick battletowers as of now.
 - Fixed an issue with some spawners.
 - Adjusted the holes in the floor, that way you dont fall on the chain holding the spawner from the floor below.
+
+Changes from the 0.5.0 Beta:
+- Fixed issues with Boss bar appearing
+- Chat message now says "Tower Explosion" if you died from the tower falling.
+- Adjusted the time it takes for the explosion to occur.

@@ -14,7 +14,7 @@ execute as @e[type=minecraft:marker,tag=summon.snow.tower.guardian,limit=1] at @
 
 execute as @e[tag=tower.guardian,tag=!battletower.tower.guardian.fight.start] run effect give @s slowness 999999 149 true
 execute at @p as @e[tag=tower.guardian,distance=0..32,nbt={HurtTime:10s}] run tag @s add battletower.tower.guardian.fight.start
-execute at @p as @e[tag=tower.guardian,distance=0..32,tag=battletower.tower.guardian.fight.start] run effect clear @s slowness
+execute at @p as @e[tag=tower.guardian,tag=battletower.tower.guardian.fight.start] run effect clear @s slowness
 
 
 ########################################################################################################################################################################################################
